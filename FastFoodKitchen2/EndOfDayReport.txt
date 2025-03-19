@@ -1,0 +1,14 @@
+*****End Of Day Report*****
+
+Completed Orders
+Order ID: 1 Hamburgers: 1, Cheeseburgers: 1, Veggieburgers: 1, Sodas: 2, Is Order To Go: false
+
+Incomplete Orders
+Order ID: 2 Hamburgers: 2, Cheeseburgers: 2, Veggieburgers: 2, Sodas: 2, Is Order To Go: true
+Order ID: 3 Hamburgers: 1, Cheeseburgers: 1, Veggieburgers: 1, Sodas: 1, Is Order To Go: false
+
+Total Sales
+Hamburgers: 1
+Cheeseburgers: 1
+Veggieburgers: 1
+Sodas: 2
